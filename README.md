@@ -19,9 +19,8 @@ Soy desarrolladora de software en proceso, apasionada por aprender y crecer en e
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanna-pm05&layout=compact&theme=dark&hide=Jupyter%20Notebook)
 
-## Contacto
-
-📫 Puedes contactarme por correo:  
+## 🌐 Contacto
+  
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paterninamercadoivanna@gmail.com)
 
 ---
