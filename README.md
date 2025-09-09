@@ -1,5 +1,6 @@
 # ¡Hola! 👋 Soy Ivanna Paternina
 
+---
 
 <img src="https://raw.githubusercontent.com/ivanna-pm05/ivanna-pm05/main/paisale.jpn" alt="Paisaje" height="200"  width="100%"/>
 
@@ -19,9 +20,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+---
 ## 📊 Estadísticas de GitHub
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanna-pm05&layout=compact&theme=dark&hide=Jupyter%20Notebook)
+
+---
 
 ## 🌐 Contacto
   
