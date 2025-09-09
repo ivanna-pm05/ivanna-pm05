@@ -15,9 +15,11 @@ Soy desarrolladora de software en proceso, apasionada por aprender y crecer en e
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-![Ivanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanna-pm05_usuario_github&show_icons=true&theme=radical)
+![Estadísticas de Ivanna](https://github-readme-stats.vercel.app/api?username=ivanna-pm05&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanna-pm05&theme=blue-green)
 
 ## Contacto
 
