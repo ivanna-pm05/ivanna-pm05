@@ -17,9 +17,7 @@ Soy desarrolladora de software en proceso, apasionada por aprender y crecer en e
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de Ivanna](https://github-readme-stats.vercel.app/api?username=ivanna-pm05&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanna-pm05&theme=blue-green)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanna-pm05&layout=compact&theme=dark&hide=Jupyter%20Notebook)
 
 ## Contacto
 
