@@ -5,6 +5,7 @@
 
 ### Soy desarrolladora de software en proceso, apasionada por aprender y crecer en el mundo de la programación. Me encanta trabajar con diferentes lenguajes y tecnologías para construir soluciones útiles y creativas.
 
+---
 ## Lenguajes y Tecnologías
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
