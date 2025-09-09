@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Ivanna Paternina
 
-Soy desarrolladora de software en proceso, apasionada por aprender y crecer en el mundo de la programación. Me encanta trabajar con diferentes lenguajes y tecnologías para construir soluciones útiles y creativas.
+### Soy desarrolladora de software en proceso, apasionada por aprender y crecer en el mundo de la programación. Me encanta trabajar con diferentes lenguajes y tecnologías para construir soluciones útiles y creativas.
 
 ## Lenguajes y Tecnologías
 
