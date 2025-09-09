@@ -17,12 +17,12 @@ Soy desarrolladora de software en proceso, apasionada por aprender y crecer en e
 
 ## Estadísticas de GitHub
 
-![Ivanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&theme=radical)
+![Ivanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanna-pm05_usuario_github&show_icons=true&theme=radical)
 
 ## Contacto
 
 📫 Puedes contactarme por correo:  
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanna.tuemail@dominio.com)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paterninamercadoivanna@gmail.com)
 
 ---
 
