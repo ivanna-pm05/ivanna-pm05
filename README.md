@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Ivanna Paternina
 
+![Paisaje](https://raw.githubusercontent.com/ivanna-pm05/ivanna-pm05/main/19d9253b-d59b-45e5-8191-1553d7050e30.png)
+
 ### Soy desarrolladora de software en proceso, apasionada por aprender y crecer en el mundo de la programación. Me encanta trabajar con diferentes lenguajes y tecnologías para construir soluciones útiles y creativas.
 
 ## Lenguajes y Tecnologías
